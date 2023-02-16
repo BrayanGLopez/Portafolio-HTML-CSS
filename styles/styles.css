@@ -368,7 +368,7 @@ section{
         align-items: flex-start;
         left: 0;
         position: absolute;
-        bottom: 33%;   
+        bottom: 35%;   
     }
 
     .tecnologias{
@@ -421,7 +421,9 @@ section{
     }
 
     .info-der a{
-        margin: 15px auto 15px auto;
+        margin: 20px auto 15px auto;
+        height: 35px;
+        line-height: 35px;
         width: 150px;
     }
 
